@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="920" viewBox="0 0 1400 920">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <style>
+    .title{font:700 34px Inter, Arial, sans-serif; fill:#123b74;}
+    .sub{font:700 17px Inter, Arial, sans-serif; fill:#6b7280; letter-spacing:0.04em;}
+    .label{font:700 19px Inter, Arial, sans-serif; fill:#111827;}
+    .small{font:500 15px Inter, Arial, sans-serif; fill:#4b5563;}
+    .dim{font:600 14px Inter, Arial, sans-serif; fill:#6b7280;}
+    .line{stroke:#1f2937; stroke-width:2.6; fill:none;}
+    .line2{stroke:#374151; stroke-width:1.8; fill:none;}
+    .light{stroke:#94a3b8; stroke-width:1.2; fill:none;}
+    .filll{fill:#ffffff; stroke:#1f2937; stroke-width:1.8;}
+    .gray{fill:#f8fafc; stroke:#cbd5e1; stroke-width:1.2;}
+  </style>
+  
+<text x="60" y="80" class="title">Board & Panel Structure Detail</text>
+<text x="80" y="140" class="sub">EXPLODED PANEL LAYERS</text>
+<polygon points="120,250 430,190 560,225 250,285" class="filll"/>
+<polygon points="145,355 455,295 585,330 275,390" class="filll"/>
+<polygon points="170,460 480,400 610,435 300,495" class="filll"/>
+<polygon points="195,565 505,505 635,540 325,600" class="filll"/>
+<text x="610" y="232" class="small">Decor finish / UV / veneer layer</text>
+<text x="635" y="337" class="small">Balance paper / melamine layer</text>
+<text x="660" y="442" class="small">MDF / plywood / eco board core</text>
+<text x="685" y="547" class="small">Back balancing layer</text>
+<text x="80" y="700" class="sub">SECTION & SIZE REFERENCE</text>
+<rect x="110" y="735" width="420" height="95" class="filll"/>
+<rect x="150" y="760" width="340" height="45" class="line2"/>
+<line x1="545" y1="735" x2="545" y2="830" class="light"/><line x1="525" y1="735" x2="545" y2="735" class="light"/><line x1="525" y1="830" x2="545" y2="830" class="light"/>
+<text x="563" y="786" class="dim">18 mm</text>
+<text x="770" y="140" class="sub">CUTTING / MODULE LAYOUT</text>
+<rect x="800" y="195" width="520" height="390" class="filll"/>
+<line x1="840" y1="225" x2="840" y2="555" class="line2"/><line x1="920" y1="225" x2="920" y2="555" class="line2"/><line x1="1000" y1="225" x2="1000" y2="555" class="line2"/><line x1="1080" y1="225" x2="1080" y2="555" class="line2"/><line x1="1160" y1="225" x2="1160" y2="555" class="line2"/><line x1="1240" y1="225" x2="1240" y2="555" class="line2"/><line x1="820" y1="250" x2="1300" y2="250" class="line2"/><line x1="820" y1="320" x2="1300" y2="320" class="line2"/><line x1="820" y1="390" x2="1300" y2="390" class="line2"/><line x1="820" y1="460" x2="1300" y2="460" class="line2"/>
+<text x="915" y="625" class="small">Module cutting and panel nesting reference</text>
+<text x="770" y="725" class="label">Technical Drawing Support</text>
+<text x="770" y="760" class="small">Panel layer details and cutting references support finish confirmation, BOM review and project quotation.</text>
+
+</svg>
